@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Intro"
+    url: /intro/
+  - title: "Intro Stata"
+    url: /stata/
+  - title: "Binary meta"
+    url: /binary/
+  - title: "Generic meta"
+    url: /generic/
+  - title: "Continuous meta"
+    url: /continuous/
+  - title: "Prevalence meta"
+    url: /prevalence/
